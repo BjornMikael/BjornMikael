@@ -2,8 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+space!;Exploring+AI,+coding+%26+creative+chaos;Follow+for+vibes!+🔥" />
 </p>
 
-# 👋 Hello everyone, I’m Björn Mikael (aka Björn "Nalle" Österman) from Helsinki, Finland  
-With a youthful spirit and over 50 years on this planet since the Summer of 1973.
+# 👋 Hello everyone, I’m Björn Mikael (aka Björn "Nalle" Österman) from Helsinki, Finland
+A creative tinkerer exploring AI, scripts, bots, games and Raspberry Pi tweaking with a youthful spirit and over 50 years on this planet since the Summer of 1973.
+
+![trophy](https://github-profile-trophy.vercel.app/?username=BjornMikael&theme=radical&margin-w=15)
 
 ![GitHub followers](https://img.shields.io/github/followers/BjornMikael?label=Followers&style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/BjornMikael?affiliations=OWNER%2CCOLLABORATOR&style=social)
